@@ -12,3 +12,9 @@ Brief introduction to the history of Computer Vision, Deep Learning and the prob
 Introduction to the image classification pipelines and train a simple model for image classification.
 <br>
 [Link to my Note](Day2_Image_Classification_Pipeline.md)<br>
+
+
+### Lecture 3 | Loss Function and Optimization
+Introduction to hinge loss, softmax function and optimization.
+<br>
+[Link to my Note](Day3_Loss_Function_and_Optimization.md)<br>
