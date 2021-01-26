@@ -18,3 +18,9 @@ Introduction to the image classification pipelines and train a simple model for 
 Introduction to hinge loss, softmax function and optimization.
 <br>
 [Link to my Note](Day3_Loss_Function_and_Optimization.md)<br>
+
+
+### Lecture 4 | Backpropagation and Neural Network
+Introduction to Neural Network backpropagation flow, equations and intuiation.
+<br>
+[Link to my Note](Day3_Loss_Function_and_Optimization.md)<br>
