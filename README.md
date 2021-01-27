@@ -23,4 +23,22 @@ Introduction to hinge loss, softmax function and optimization.
 ### Lecture 4 | Backpropagation and Neural Network
 Introduction to Neural Network backpropagation flow, equations and intuiation.
 <br>
-[Link to my Note](Day3_Loss_Function_and_Optimization.md)<br>
+[Link to my Note](Day4_Backpropagation_and_Neural_Network.md)<br>
+
+
+### Lecture 5 | Convolutional Neural Network
+
+<br>History and Modern in CNN and its operations.
+[Link to my Note](Day5_Convolutional_Neural_Network.md)<br>
+
+
+### Lecture 6 | Training Neural Network 1
+
+<br> Basic Training Procedure hyperparameters optimization.
+[Link to my Note](Day6_Training_Neural_Network_1.md)<br>
+
+
+### Lecture 7 | Training Neural Network 2
+
+<br>
+[Link to my Note](Day7_Training_Neural_Network_2.md)<br>
